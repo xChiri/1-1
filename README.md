@@ -1,4 +1,4 @@
-# 1-1
+# 1+1
 <p> 1+1 is an addictive puzzle game with a simple algorithm behind itself. 
 At every step a new "1" circle will be randomly spawned in the centre of the table, on one of the 9 circles. 
 You have to send it to a border by swiping the screen up or down, left or right. 
