@@ -10,6 +10,6 @@ Creating circles with big values will increase your score. </p>
 <p> <a href="https://play.google.com/store/apps/details?id=com.QGEntertainment.oneplusone&hl=en_GB"> Available on Play Store </a> </p>
 <p> Developed using Unity3d by George Chiriluta in 2015. </p>
 
-<img src="https://lh3.googleusercontent.com/DVQC3SBMlnyasYE0bj0GfwHxLaye0fSVtmIQTdU4CzPHLJT0DivHKaYfSmCN6gcTnIPV=h900-rw"/>
-<img src="https://lh3.googleusercontent.com/KujHlPjGkzI7oO_4nQO8TI-g25Uhae4pJCcBJ2CsVMLJ7TYmnob2rPC94cGOJ0H-3vNy=h900-rw"/>
+<img width="50%" src="https://lh3.googleusercontent.com/DVQC3SBMlnyasYE0bj0GfwHxLaye0fSVtmIQTdU4CzPHLJT0DivHKaYfSmCN6gcTnIPV=h900-rw"/>
+<img width="50%" src="https://lh3.googleusercontent.com/KujHlPjGkzI7oO_4nQO8TI-g25Uhae4pJCcBJ2CsVMLJ7TYmnob2rPC94cGOJ0H-3vNy=h900-rw"/>
 
